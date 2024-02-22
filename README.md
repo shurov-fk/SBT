@@ -24,14 +24,14 @@
 
 <div align="center">
       <h3>My Replit Account ->
-      <a href="https://replit.com/@YanMaglinte" style="color: green;">@YanMaglinte🔥</a>
+      <a href="https://replit.com/@YanMaglinte" style="color: green;">@ShuvO-BoT💫</a>
         <br>
   My Facebook Account ->
   <a href="https://www.facebook.com/yandeva.me?mibextid=b06tZ0" style="color: green;">Yan🚀</a></h3></div>
 
 - If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
 
-<img align="center" src="https://i.ibb.co/z4d9ttK/Screenshot-2024-01-25-06-40-30-01-a23b203fd3aafc6dcb84e438dda678b6.jpg"/>
+<img align="center" src="https://i.imgur.com/5qXuE9c.jpeg"/>
 
 ## **How to Start Using BotPack?**
 1. Begin by navigating to [Replit](https://replit.com).
