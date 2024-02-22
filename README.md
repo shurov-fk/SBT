@@ -1,5 +1,5 @@
 <h1>BotPack🤖<sub><sub>v1.6.0🚀</sub><sub><sub><h6>- By Yan Maglinte</h6></sub></sub></sub>
-  <img align="center" src="https://i.ibb.co/gMMvsYf/20240125-225244-0000.png"></a>
+  <img align="center" src="https://i.imgur.com/lDn5z2C.jpeg"></a>
 
 <h3>Introduction</h3></h1>
 
