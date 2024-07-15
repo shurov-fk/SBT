@@ -1,5 +1,5 @@
 <h1>ShuvO BoT<sub><sub>v1.6.0🚀</sub><sub><sub><h6>- By Yan Maglinte</h6></sub></sub></sub>
-  <img align="center" src="https://i.imgur.com/lDn5z2C.jpeg"></a>
+  <img align="center" src="[https://i.imgur.com/lDn5z2C.jpeg](https://postimg.cc/F1dWYPwk)"></a>
 
 <h3>Introduction</h3></h1>
 
